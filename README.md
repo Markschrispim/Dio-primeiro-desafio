@@ -12,3 +12,6 @@ Links úteis para o desenvolvimento do projeto e organização do ambiente de tr
 #### Desafio 01.
 Projeto recriando interface de login do instagram  
 [interfaceinstagram.zip](https://github.com/Markschrispim/Dio-primeiro-desafio/files/8977186/interfaceinstagram.zip)
+#### Desafio 02.
+Projeto Sintaxe e operadores
+[sintaxe.zip](https://github.com/Markschrispim/Dio-primeiro-desafio/files/9066386/sintaxe.zip)
